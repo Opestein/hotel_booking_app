@@ -1,0 +1,74 @@
+{
+  "account": "Account",
+  "@account": {
+    "description": "Account text"
+  },
+  "connectionTimeout": "Connection timeout",
+  "@connectionTimeout": {
+    "description": "Connection timeout text"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue text"
+  },
+  "clearFavorites": "Clear Favorites",
+  "@clearFavorites": {
+    "description": "Clear Favorites text"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close text"
+  },
+  "dashboardTitle": "Welcome to the Hotel Booking App!",
+  "@dashboardTitle": {
+    "description": "Welcome to the Hotel Booking App! text"
+  },
+  "exploreHotels": "Explore Hotels",
+  "@exploreHotels": {
+    "description": "Explore Hotels text"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home text"
+  },
+  "hotel": "Hotel",
+  "@hotel": {
+    "description": "Hotel text"
+  },
+  "hotelApp": "Hotel App Splashscreen",
+  "@hotelApp": {
+    "description": "Hotel App Splashscreen text"
+  },
+  "hotels": "Hotels",
+  "@hotels": {
+    "description": "Hotels text"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language text"
+  },
+  "noFavorites": "No Favorites",
+  "@noFavorites": {
+    "description": "No Favorites text"
+  },
+  "noHotelFoundAtTheMoment": "No Hotel Found At The Moment",
+  "@noHotelFoundAtTheMoment": {
+    "description": "No Hotel Found At The Moment text"
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "description": "No internet connection text"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry text"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme text"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "account": "Cuenta",
+  "@account": {
+    "description": "Texto de Cuenta"
+  },
+  "connectionTimeout": "Tiempo de espera de conexión",
+  "@connectionTimeout": {
+    "description": "Texto de tiempo de espera de conexión"
+  },
+  "continueText": "Continuar",
+  "@continueText": {
+    "description": "Texto de continuar"
+  },
+  "clearFavorites": "Borrar Favoritos",
+  "@clearFavorites": {
+    "description": "Texto de borrar favoritos"
+  },
+  "close": "Cerrar",
+  "@close": {
+    "description": "Texto de cerrar"
+  },
+  "dashboardTitle": "¡Bienvenido a la App de Reservas de Hoteles!",
+  "@dashboardTitle": {
+    "description": "Texto de bienvenida a la App de Reservas de Hoteles"
+  },
+  "exploreHotels": "Explorar Hoteles",
+  "@exploreHotels": {
+    "description": "Texto de explorar hoteles"
+  },
+  "favorites": "Favoritos",
+  "@favorites": {
+    "description": "Texto de favoritos"
+  },
+  "home": "Inicio",
+  "@home": {
+    "description": "Texto de inicio"
+  },
+  "hotel": "Hotel",
+  "@hotel": {
+    "description": "Texto de hotel"
+  },
+  "hotelApp": "Pantalla de carga de la App de Hoteles",
+  "@hotelApp": {
+    "description": "Texto de pantalla de carga de la App de Hoteles"
+  },
+  "hotels": "Hoteles",
+  "@hotels": {
+    "description": "Texto de hoteles"
+  },
+  "language": "Idioma",
+  "@language": {
+    "description": "Texto de idioma"
+  },
+  "noFavorites": "Sin Favoritos",
+  "@noFavorites": {
+    "description": "Texto de sin favoritos"
+  },
+  "noHotelFoundAtTheMoment": "No se encontraron hoteles en este momento",
+  "@noHotelFoundAtTheMoment": {
+    "description": "Texto de no se encontraron hoteles en este momento"
+  },
+  "noInternetConnection": "Sin conexión a Internet",
+  "@noInternetConnection": {
+    "description": "Texto de sin conexión a Internet"
+  },
+  "retry": "Reintentar",
+  "@retry": {
+    "description": "Texto de reintentar"
+  },
+  "theme": "Tema",
+  "@theme": {
+    "description": "Texto de tema"
+  }
+}
